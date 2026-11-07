@@ -1,2 +1,8 @@
-# Student2
-Code files 
+# Student2 
+code files
+:
+what next:
+
+help issue;
+
+nothing hopeless
